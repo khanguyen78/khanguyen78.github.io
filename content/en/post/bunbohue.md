@@ -6,5 +6,16 @@ tags: ["recipes", "soups"]
 title: "Bun Bo Hue"
 ---
 
-Placeholder for Bun Bo Hue
+# Bun Bo Hue
 
+## About
+
+## Time to cook
+
+## Serves
+
+## Ingredients
+
+## Instructions
+
+## Nutritional information
