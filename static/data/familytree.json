@@ -1,0 +1,7 @@
+[
+  { "id": 1, "pids": [2], "name": "John", "title": "Father" },
+  { "id": 2, "pids": [1], "name": "Jane", "title": "Mother" },
+  { "id": 3, "mid": 1, "fid": 2, "name": "Alice", "title": "Daughter" },
+  { "id": 4, "mid": 1, "fid": 2, "name": "Bob", "title": "Son" }
+]
+

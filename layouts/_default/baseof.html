@@ -26,6 +26,10 @@
     {{ partials.Include "site-style.html" . }}
     {{ partials.Include "site-scripts.html" . }}
 
+
+    <!-- Any head partial (e.g. to add FamilyTreeJS script) -->
+    {{ partial "head.html" . }}
+
     {{ block "favicon" . }}
       {{ partials.IncludeCached "site-favicon.html" . }}
     {{ end }}

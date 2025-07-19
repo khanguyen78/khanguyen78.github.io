@@ -86,6 +86,13 @@
       <description>&lt;p&gt;Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d&amp;rsquo;attente. L&amp;rsquo;avantage de le mettre en latin est que l&amp;rsquo;opérateur sait au premier coup d&amp;rsquo;oeil que la page contenant ces lignes n&amp;rsquo;est pas valide, et surtout l&amp;rsquo;attention du client n&amp;rsquo;est pas dérangée par le contenu, il demeure concentré seulement sur l&amp;rsquo;aspect graphique.&lt;/p&gt;</description>
     </item>
     <item>
+      <title></title>
+      <link>http://localhost:1313/en/post/familytree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/familytree/</guid>
+      <description>&lt;!-- index.html --&gt;&#xA;&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xA;  &lt;title&gt;My Family Tree&lt;/title&gt;&#xA;  &lt;script src=&#34;http://localhost:1313/data/FamilyTree.js&#34;&gt;&lt;/script&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/style.css&#34; /&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;  &lt;div id=&#34;tree&#34; height=1000 width=1000&gt;&lt;/div&gt;&#xA;    &lt;script&gt;&#xA;        document.write(&#34;Hello, World!&#34;);&#xA;    &lt;/script&gt;&#xA;&#xA;&lt;script&gt;&#xA;  fetch(&#39;/data/nguyen.json&#39;)&#xA;    .then(response =&gt; response.json())&#xA;    .then(data =&gt; {&#xA;      const family = new FamilyTree(document.getElementById(&#34;tree&#34;), {&#xA;        nodeBinding: {&#xA;          field_0: &#34;name&#34;,&#xA;          field_1: &#34;title&#34;&#xA;        },&#xA;        nodes: data&#xA;      });&#xA;    })&#xA;    .catch(error =&gt; {&#xA;      console.error(&#39;Error loading family tree data:&#39;, error);&#xA;    });&#xA;&lt;/script&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,13 +119,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/contribute/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/goicuon.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Viet Cuisines&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I sincerely hope that you enjoy this site. If you decide to take the journey in learning about other dishes not already on this site, or variations of any recipe, I invite you to contribute. I would love to try any vegetarian version of these recipes.&lt;/p&gt;&#xA;&lt;p&gt;Not only does contributing to this site help you expand on your cooking skills, you can also add some web development skills to your resume :)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Family Tree</title>
-      <link>http://localhost:1313/en/post/familytree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/familytree/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/goicuon.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Xin Chao&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;about-me&#34;&gt;About me&lt;/h3&gt;&#xA;&lt;p&gt;My name is Megan, and as of the writing of this page, I am a senior in high school here in Fairfax, Virginia. I am also a proud member of the Girl Scouts. For my gold award I decided to start a website about the foods of my culture. Over the years I have been fortunate enough to travel and eat many different foods and I&amp;rsquo;ve found that I really love food lol. If you enjoy this site I hope you&amp;rsquo;ll share this with others and share with me any recipes or at the least your favorite dish of any cuisine. Thank you for visiting this site. I hope you enjoy it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
