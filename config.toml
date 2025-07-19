@@ -5,7 +5,7 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3                  # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 5                  # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -21,7 +21,7 @@ weight = 2
 contentDir = "content/fr"
 
 [sitemap]
-changefreq = "monthly"
+changefreq = "daily"
 priority = 0.5
 filename = "sitemap.xml"
 

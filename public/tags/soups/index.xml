@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soups on Viet Cuisines</title>
-    <link>http://localhost:1313/tags/soups/</link>
+    <link>http://localhost:51677/tags/soups/</link>
     <description>Recent content in Soups on Viet Cuisines</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Oct 2024 10:00:08 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/soups/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51677/tags/soups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bun Bo Hue</title>
-      <link>http://localhost:1313/en/post/bunbohue/</link>
+      <link>http://localhost:51677/en/post/bunbohue/</link>
       <pubDate>Tue, 01 Oct 2024 10:00:08 -0400</pubDate>
-      <guid>http://localhost:1313/en/post/bunbohue/</guid>
+      <guid>http://localhost:51677/en/post/bunbohue/</guid>
       <description>&lt;h1 id=&#34;bun-bo-hue&#34;&gt;Bun Bo Hue&lt;/h1&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;h2 id=&#34;time-to-cook&#34;&gt;Time to cook&lt;/h2&gt;&#xA;&lt;h2 id=&#34;serves&#34;&gt;Serves&lt;/h2&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;h2 id=&#34;nutritional-information&#34;&gt;Nutritional information&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Pho</title>
-      <link>http://localhost:1313/en/post/phobo/</link>
+      <link>http://localhost:51677/en/post/phobo/</link>
       <pubDate>Tue, 01 Oct 2024 10:00:08 -0400</pubDate>
-      <guid>http://localhost:1313/en/post/phobo/</guid>
+      <guid>http://localhost:51677/en/post/phobo/</guid>
       <description>&lt;p&gt;Placeholder for Pho&lt;/p&gt;&#xA;&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ingredneits&#34;&gt;Ingredneits&lt;/h3&gt;&#xA;&lt;h3 id=&#34;recipe&#34;&gt;Recipe&lt;/h3&gt;</description>
     </item>
   </channel>

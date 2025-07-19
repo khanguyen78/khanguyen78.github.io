@@ -1,0 +1,33 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Family Tree</title>
+  <script src="https://www.khaskarate.com/FamilyTree.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="tree" height=1000 width=1000></div>
+    <script>
+        document.write("Hello, World!");
+    </script>
+
+<script>
+
+    let family = new FamilyTree("#tree", {
+        // options
+        nodeBinding: {
+            field_0: "name"
+        },
+        nodes: [
+            { id: 1, pids: [2], name: "Amber McKenzie", gender: "female" },
+            { id: 2, pids: [1], name: "Ava Field", gender: "male" },
+            { id: 3, mid: 1, fid: 2, name: "Peter Stevens", gender: "male" }
+        ]  
+    });
+ 
+</script>
+</body>
+</html>
+
