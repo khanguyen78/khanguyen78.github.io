@@ -13,7 +13,7 @@
       <link>http://localhost:1313/en/post/bunbohue/</link>
       <pubDate>Tue, 01 Oct 2024 10:00:08 -0400</pubDate>
       <guid>http://localhost:1313/en/post/bunbohue/</guid>
-      <description>&lt;p&gt;Placeholder for Bun Bo Hue&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;bun-bo-hue&#34;&gt;Bun Bo Hue&lt;/h1&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;h2 id=&#34;time-to-cook&#34;&gt;Time to cook&lt;/h2&gt;&#xA;&lt;h2 id=&#34;serves&#34;&gt;Serves&lt;/h2&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;h2 id=&#34;nutritional-information&#34;&gt;Nutritional information&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Ca Kho To</title>
@@ -31,10 +31,10 @@
     </item>
     <item>
       <title>Pho</title>
-      <link>http://localhost:1313/en/post/chapter-1/</link>
+      <link>http://localhost:1313/en/post/phobo/</link>
       <pubDate>Tue, 01 Oct 2024 10:00:08 -0400</pubDate>
-      <guid>http://localhost:1313/en/post/chapter-1/</guid>
-      <description>&lt;p&gt;Placeholder for Pho&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/post/phobo/</guid>
+      <description>&lt;p&gt;Placeholder for Pho&lt;/p&gt;&#xA;&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ingredneits&#34;&gt;Ingredneits&lt;/h3&gt;&#xA;&lt;h3 id=&#34;recipe&#34;&gt;Recipe&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
