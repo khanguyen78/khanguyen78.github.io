@@ -13,7 +13,7 @@
       <link>http://localhost:1313/en/post/bunbohue/</link>
       <pubDate>Tue, 01 Oct 2024 10:00:08 -0400</pubDate>
       <guid>http://localhost:1313/en/post/bunbohue/</guid>
-      <description>&lt;p&gt;Placeholder for Bun Bo Hue&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;bun-bo-hue&#34;&gt;Bun Bo Hue&lt;/h1&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;h2 id=&#34;prep-time&#34;&gt;Prep Time&lt;/h2&gt;&#xA;&lt;h2 id=&#34;cooking-time&#34;&gt;Cooking Time&lt;/h2&gt;&#xA;&lt;h2 id=&#34;serves&#34;&gt;Serves&lt;/h2&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;&#xA;&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;&#xA;&lt;h2 id=&#34;nutritional-information&#34;&gt;Nutritional information&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Ca Kho To</title>
@@ -34,7 +34,7 @@
       <link>http://localhost:1313/en/post/phobo/</link>
       <pubDate>Tue, 01 Oct 2024 10:00:08 -0400</pubDate>
       <guid>http://localhost:1313/en/post/phobo/</guid>
-      <description>&lt;p&gt;Placeholder for Pho&lt;/p&gt;</description>
+      <description>&lt;p&gt;Placeholder for Pho&lt;/p&gt;&#xA;&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;h3 id=&#34;ingredneits&#34;&gt;Ingredneits&lt;/h3&gt;&#xA;&lt;h3 id=&#34;recipe&#34;&gt;Recipe&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Chapter VI: Esmeralda</title>
@@ -70,6 +70,13 @@
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       <guid>http://localhost:1313/en/post/chapter-2/</guid>
       <description>&lt;p&gt;Nevertheless, as be harangued them, the satisfaction and admiration&#xA;unanimously excited by his costume were dissipated by his words; and when&#xA;he reached that untoward conclusion: “As soon as his illustrious eminence,&#xA;the cardinal, arrives, we will begin,” his voice was drowned in a thunder&#xA;of hooting.&lt;/p&gt;&#xA;&lt;p&gt;“Begin instantly! The mystery! the mystery immediately!” shrieked the&#xA;people. And above all the voices, that of Johannes de Molendino was&#xA;audible, piercing the uproar like the fife’s derisive serenade: “Commence&#xA;instantly!” yelped the scholar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/post/familytree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/familytree/</guid>
+      <description>&lt;!-- index.html --&gt;&#xA;&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;  &lt;meta charset=&#34;UTF-8&#34; /&gt;&#xA;  &lt;title&gt;My Family Tree&lt;/title&gt;&#xA;  &lt;script src=&#34;http://localhost:1313/data/FamilyTree.js&#34;&gt;&lt;/script&gt;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/style.css&#34; /&gt;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;  &lt;div id=&#34;tree&#34; height=1000 width=1000&gt;&lt;/div&gt;&#xA;    &lt;script&gt;&#xA;        document.write(&#34;Hello, World!&#34;);&#xA;    &lt;/script&gt;&#xA;&#xA;&lt;script&gt;&#xA;  fetch(&#39;/data/nguyen.json&#39;)&#xA;    .then(response =&gt; response.json())&#xA;    .then(data =&gt; {&#xA;      const family = new FamilyTree(document.getElementById(&#34;tree&#34;), {&#xA;        nodeBinding: {&#xA;          field_0: &#34;name&#34;,&#xA;          field_1: &#34;title&#34;&#xA;        },&#xA;        nodes: data&#xA;      });&#xA;    })&#xA;    .catch(error =&gt; {&#xA;      console.error(&#39;Error loading family tree data:&#39;, error);&#xA;    });&#xA;&lt;/script&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
     </item>
   </channel>
 </rss>

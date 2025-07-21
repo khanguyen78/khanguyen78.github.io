@@ -10,7 +10,9 @@ title: "Bun Bo Hue"
 
 ## About
 
-## Time to cook
+## Prep Time
+
+## Cooking Time
 
 ## Serves
 

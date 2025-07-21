@@ -1,6 +1,6 @@
 ---
 title: "Contribute"
-description: ""
+description: "Contribute"
 featured_image: '/images/goicuon.jpg'
 menu:
   main:

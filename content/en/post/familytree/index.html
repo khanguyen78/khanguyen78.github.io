@@ -1,0 +1,34 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>My Family Tree</title>
+  <script src="/data/FamilyTree.js"></script>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <div id="tree" height=1000 width=1000></div>
+    <script>
+        document.write("Hello, World!");
+    </script>
+
+<script>
+  fetch('/data/nguyen.json')
+    .then(response => response.json())
+    .then(data => {
+      const family = new FamilyTree(document.getElementById("tree"), {
+        nodeBinding: {
+          field_0: "name",
+          field_1: "title"
+        },
+        nodes: data
+      });
+    })
+    .catch(error => {
+      console.error('Error loading family tree data:', error);
+    });
+</script>
+</body>
+</html>
+
