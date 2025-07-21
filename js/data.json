@@ -126,10 +126,10 @@
             { "id": 127, "pids": [131], "mid": 126, "fid": 132, "name": "Suong", "gender": "female" },
             { "id": 131, "pids": [127], "name": "Suong's husband", "gender": "male" },
             { "id": 134, "mid": 127, "fid": 131, "name": "Suong's baby", "gender": "female" },
-            { "id": 128, "mid": 126, "fid": 132", "name": "Thanh", "gender": "female" },
-            { "id": 129, "mid": 126, "fid": 132", "name": "Dinh", "gender": "male" },
-            { "id": 130, "mid": 126, "fid": 132", "name": "Dinh's Brother", "gender": "male" },
-            { "id": 133, "mid": 126, "fid": 132", "name": "Thuy", "gender": "female" },
+            { "id": 128, "mid": 126, "fid": 132, "name": "Thanh", "gender": "female" },
+            { "id": 129, "mid": 126, "fid": 132, "name": "Dinh", "gender": "male" },
+            { "id": 130, "mid": 126, "fid": 132, "name": "Dinh's Brother", "gender": "male" },
+            { "id": 133, "mid": 126, "fid": 132, "name": "Thuy", "gender": "female" },
             { "id": 125, "mid": 104, "fid": 105, "name": "Cau 12", "gender": "male" },
             { "id": 123, "pids": [3], "name": "Tran Xuan Quang", "gender": "male" }
 
