@@ -120,6 +120,13 @@
             { "id": 110, "mid": 104, "fid": 105, "name": "Di 9", "gender": "female" },
             { "id": 109, "mid": 104, "fid": 105, "name": "Cau 12", "gender": "male" },
             { "id": 107, "mid": 104, "fid": 105, "name": "Di Ut", "gender": "female" },
+            { "id": 124, "mid": 104, "fid": 105, "name": "Di 9", "gender": "female" },
+            { "id": 126, "mid": 104, "fid": 105, "name": "Di 6", "gender": "female" },
+            { "id": 127, "mid": 126, "name": "Suong", "gender": "female" },
+            { "id": 128, "mid": 126, "name": "Thanh", "gender": "female" },
+            { "id": 129, "mid": 126, "name": "Dinh", "gender": "male" },
+            { "id": 130, "mid": 126, "name": "Dinh's Brother", "gender": "male" },
+            { "id": 125, "mid": 104, "fid": 105, "name": "Cau 12", "gender": "male" },
             { "id": 123, "pids": [3], "name": "Tran Xuan Quang", "gender": "male" }
 
 
