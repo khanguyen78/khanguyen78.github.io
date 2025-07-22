@@ -65,7 +65,7 @@
             { "id": 136, "mid": 34, "fid": 33, "name": "Armani", "gender": "female" },
             { "id": 46, "mid": 11, "fid": 13, "name": "Isabelle Crystal", "gender": "female" },
             { "id": 47, "mid": 11, "fid": 13, "name": "Roland Crystal", "gender": "male" },
-            { "id": 48, "mid": 12, "fid": 38, "name": "Aubrey Chi-Minh Vĩnh", "gender": "female" },
+            { "id": 48, "pids": [163], "mid": 12, "fid": 38, "name": "Aubrey Chi-Minh Vĩnh", "gender": "female" },
             { "id": 49, "pids": [162], "mid": 12, "fid": 38, "name": "Ryan Bảo Vǎn Vĩnh", "gender": "male" },
             { "id": 50, "mid": 12, "fid": 38, "name": "Aaron Bảo Duy Vĩnh", "gender": "male" },
             { "id": 53, "pids": [63], "mid": 21, "fid": 57, "name": "Ha Xuan Phong", "gender": "male" },
@@ -160,7 +160,8 @@
             { "id": 64, "mid": 159, "fid": 42, "name": "Sandaara Nguyễn", "gender": "female" },
             { "id": 160, "pids": [161], "name": "Pham Van Ly's Dad", "gender": "male" },
             { "id": 161, "pids": [160], "name": "Pham Van Ly Mom", "gender": "female" },
-            { "id": 162, "pids": [49], "name": "Dorothy Jiang", "gender": "female" }
+            { "id": 162, "pids": [49], "name": "Dorothy Jiang", "gender": "female" },
+            { "id": 163, "pids": [48], "name": "John Jody", "gender": "male" }
 
 
     ]
