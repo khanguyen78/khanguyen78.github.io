@@ -1,6 +1,8 @@
 //JavaScript
 
 var family = new FamilyTree(document.getElementById("tree"), {
+    showXScroll: true,
+    showYScroll: true,
     mouseScrool: FamilyTree.action.none,
     template: "hugo",
     nodeBinding: {

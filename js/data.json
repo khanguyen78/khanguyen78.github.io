@@ -66,7 +66,7 @@
             { "id": 54, "pids": [58], "mid": 21, "fid": 57, "name": "Tram Brown", "gender": "female" },
             { "id": 55, "pids": [66], "mid": 21, "fid": 57, "name": "Ha Xuan Quang", "gender": "male" },
             { "id": 66, "pids": [55], "name": "Ha Xuan Quang's wife", "gender": "female" },
-            { "id": 67, "mid": 66, "fid": 55, "name": "Ha Xuan Quang's daughter", "gender": "female" },
+            { "id": 67, "mid": 66, "fid": 55, "name": "Izzy", "gender": "female" },
             { "id": 56, "mid": 21, "fid": 57, "name": "Ha Xuan Tam", "gender": "male" },
             { "id": 58, "pids": [54], "name": "David Brown", "gender": "male" },
             { "id": 59, "mid": 54, "fid": 58, "name": "Tori Brown", "gender": "female" },
