@@ -156,8 +156,8 @@
             { "id": 147, "mid": 141, "fid": 140, "name": "Đào Thị Kim Chi", "gender": "female" },
             { "id": 148, "mid": 141, "fid": 140, "name": "Đào Hữu Thắng", "gender": "male" },
             { "id": 149, "mid": 141, "fid": 140, "name": "Đào Hữu Khải", "gender": "male" },
-            { "id": 150, "mid": 141, "fid": 140, "name": "Đào Thị Tường Vân", "gender": "female" }
-            { "id": 159, "pids": [42], "name": "Victoria Rozhina", "gender": "female" },
+            { "id": 150, "mid": 141, "fid": 140, "name": "Đào Thị Tường Vân", "gender": "female" },
+            { "id": 159, "pids": [42], "name": "Victoria Rozhina", "gender": "female" }
 
 
     ]
