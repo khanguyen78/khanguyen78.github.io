@@ -54,6 +54,7 @@
             { "id": 44, "mid": 28, "name": "Ashley", "gender": "female" },
             { "id": 51, "mid": 41, "name": "Christine's Dog", "gender": "female" },
             { "id": 45, "mid": 34, "fid": 33, "name": "Mino", "gender": "female" },
+            { "id": 136, "mid": 34, "fid": 33, "name": "Armani", "gender": "female" },
             { "id": 46, "mid": 11, "fid": 13, "name": "Isabelle Crystal", "gender": "female" },
             { "id": 47, "mid": 11, "fid": 13, "name": "Roland Crystal", "gender": "male" },
             { "id": 48, "mid": 12, "fid": 38, "name": "Aubrey Vinh", "gender": "female" },
