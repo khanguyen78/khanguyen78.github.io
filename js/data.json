@@ -4,7 +4,7 @@
             { "id": 5, "pids": [27], "mid": 1, "fid": 2, "name": "Hùng Mạnh Nguyễn", "gender": "male" },
             { "id": 27, "pids": [5], "name": "Dung Nguyễn", "gender": "female" },
             { "id": 28, "mid": 27, "fid": 5, "name": "Mimi Nguyen", "gender": "female" },
-            { "id": 29, "pids": [30], "mid": 27, "fid": 5, "name": "Michel Barthe", "gender": "male" },
+            { "id": 29, "pids": [30], "mid": 27, "fid": 5, "name": "Michel Barthe Nguyễn", "gender": "male" },
             { "id": 30, "pids": [29], "name": "Jennifer Delos Santos", "gender": "female" },
             { "id": 6, "pids": [151], "mid": 1, "fid": 2, "name": "Đùng Anh (Cường) Nguyễn", "gender": "male" },
             { "id": 151, "pids": [6], "name": "Phương Nguyễn", "gender": "female" },
@@ -38,7 +38,7 @@
             { "id": 14, "pids": [20], "name": "Nguyen Van Can", "gender": "male" },
             { "id": 20, "pids": [14], "name": "Nguyen Van Can's wife", "gender": "male" },        
             { "id": 3, "pids": [4, 123], "mid": 104, "fid": 105, "name": "Hua Thi Gam", "gender": "female" },
-            { "id": 4, "pids": [3], "name": "Pham Van Ly", "gender": "male" },    
+            { "id": 4, "pids": [3], "mid": 161, "fid": 160, "name": "Pham Van Ly", "gender": "male" },    
             { "id": 18, "pids": [16], "mid": 21, "fid": 7, "name": "Nguyen Truong Kha", "gender": "male" },
             { "id": 33, "pids": [34], "mid": 21, "fid": 7, "name": "Nguyen Truong Khoa", "gender": "male" },
             { "id": 16, "pids": [18], "mid": 3, "fid": 4, "name": "Pham Thi Hong Que", "gender": "female" },
@@ -157,7 +157,9 @@
             { "id": 149, "mid": 141, "fid": 140, "name": "Đào Hữu Khải", "gender": "male" },
             { "id": 150, "mid": 141, "fid": 140, "name": "Đào Thị Tường Vân", "gender": "female" },
             { "id": 159, "pids": [42], "name": "Victoria Rozhina", "gender": "female" },
-            { "id": 64, "mid": 159, "fid": 42, "name": "Sandaara Nguyễn", "gender": "female" }
+            { "id": 64, "mid": 159, "fid": 42, "name": "Sandaara Nguyễn", "gender": "female" },
+            { "id": 160, "pids": [161], "name": "Pham Van Ly's Dad", "gender": "male" },
+            { "id": 161, "pids": [160], "name": "Pham Van Ly Mom", "gender": "female" }
 
 
     ]
