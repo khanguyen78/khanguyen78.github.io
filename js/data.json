@@ -8,6 +8,8 @@
             { "id": 30, "pids": [29], "name": "Jennifer Del Los Santos", "gender": "female" },
             { "id": 6, "pids": [151], "mid": 1, "fid": 2, "name": "Đùng Anh (Cường) Nguyễn", "gender": "male" },
             { "id": 151, "pids": [6], "name": "Phương Nguyễn", "gender": "female" },
+            { "id": 152, "mid": 151, "fid": 6, "name": "Huan", "gender": "male" },
+            { "id": 153, "mid": 151, "fid": 6, "name": "Lam", "gender": "male" },
             { "id": 7, "pids": [21, 52], "mid": 1, "fid": 2, "name": "Nguyen Truong Thinh", "gender": "male" },
             { "id": 21, "pids": [7, 57], "mid": 20, "fid": 14, "name": "Nguyen Thi Lan", "gender": "female" },
             { "id": 57, "pids": [21], "name": "Tin Nguyen", "gender": "male" },
