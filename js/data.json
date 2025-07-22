@@ -57,7 +57,7 @@
             { "id": 157, "mid": 40, "fid": 154, "name": "Hayden", "gender": "male" },
             { "id": 158, "mid": 40, "fid": 154, "name": "Stella", "gender": "female" },
             { "id": 41, "mid": 22, "fid": 8, "name": "Vân-Anh Nguyễn", "gender": "female" },
-            { "id": 42, "pids": [154], "mid": 22, "fid": 8, "name": "Huy-Minh Nguyễn", "gender": "male" },
+            { "id": 42, "pids": [159], "mid": 22, "fid": 8, "name": "Huy-Minh Nguyễn", "gender": "male" },
             { "id": 43, "mid": 22, "fid": 8, "name": "Minh-Tuấn Nguyễn", "gender": "male" },
             { "id": 44, "mid": 28, "name": "Ashley", "gender": "female" },
             { "id": 51, "mid": 41, "name": "Christine's Dog", "gender": "female" },
