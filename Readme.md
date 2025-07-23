@@ -13,3 +13,5 @@ Then
 
 ## Updating the tree
 The tree file is currently at js/data.json. I'm taking suggestions on moving it out of the repository in favor of a more secure location.
+
+For now check in directly to the `main` branch. If there is enough traction and contribution, we can discuss a workflow for PRs and merges.
