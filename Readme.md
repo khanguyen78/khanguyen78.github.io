@@ -1,6 +1,8 @@
 # Usage
 ```docker build .```
+
 Then
+
 ```docker compose up -d```
 
 # Updating the tree
