@@ -1,5 +1,9 @@
 # Usage
 
+## About
+This is a deployment of the Balkan Family Tree application https://balkan.app/FamilyTreeJS served in Github Pages.
+
+
 ## Local development
 ```docker build .```
 
