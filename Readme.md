@@ -11,6 +11,10 @@ Then
 
 ```docker compose up -d```
 
+Then
+
+Browse the application at http://localhost:8080
+
 ## Updating the tree
 The tree file is currently at js/data.json. I'm taking suggestions on moving it out of the repository in favor of a more secure location.
 
