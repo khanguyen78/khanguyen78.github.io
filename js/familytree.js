@@ -4,7 +4,7 @@ fetch('js/data.json')
     new FamilyTree(document.getElementById("tree"), {
       nodeBinding: {
         field_0: "name",
-        field_1: "title",
+        field_1: "title"
       },
       menu: {
           pdf: { text: "Export PDF" },
