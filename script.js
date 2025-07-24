@@ -18,8 +18,7 @@ var family = new FamilyTree(document.getElementById("tree"), {
         svg: { text: "Export SVG" }
     },
     nodeBinding: {
-        field_0: "name",
-        field_1: "title",
+        field_0: "name"
     },
 
     nodes: [
