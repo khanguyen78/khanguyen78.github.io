@@ -5,18 +5,6 @@ var family = new FamilyTree(document.getElementById("tree"), {
     showYScroll: true,
     mouseScrool: FamilyTree.action.none,
     template: "hugo",
-    menu: {
-        pdf: { text: "Export PDF" },
-        png: { text: "Export PNG" },
-        svg: { text: "Export SVG" },
-        xml: { text: "Export XML" },
-        json: { text: "Export JSON" }
-    },
-    nodeMenu: {
-        pdf: { text: "Export PDF" },
-        png: { text: "Export PNG" },
-        svg: { text: "Export SVG" }
-    },
     nodeBinding: {
         field_0: "name"
     },
