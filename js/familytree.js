@@ -5,6 +5,17 @@ fetch('js/data.json')
       nodeBinding: {
         field_0: "name"
       },
+      menu: {
+          pdf: { text: "Export PDF" },
+          png: { text: "Export PNG" },
+          svg: { text: "Export SVG" },
+          json: { text: "Export JSON" }
+      },
+      nodeMenu: {
+          pdf: { text: "Export PDF" },
+          png: { text: "Export PNG" },
+          svg: { text: "Export SVG" }
+      },
       nodes: data
     });
   })
