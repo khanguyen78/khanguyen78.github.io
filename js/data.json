@@ -112,7 +112,7 @@
             { "id": 187, "pids": [184], "name": "May's Husband", "gender": "male" },
             { "id": 188, "mid": 184, "fid": 187, "name": "May's daughter", "gender": "female" },
             { "id": 185, "mid": 183, "fid": 85, "name": "Bo", "gender": "male" },
-            { "id": 186, "pids": [187], "mid": 183, "fid": 85, "name": "Tin", "gender": "male" },
+            { "id": 186, "pids": [190], "mid": 183, "fid": 85, "name": "Tin", "gender": "male" },
             { "id": 190, "pids": [186], "name": "Tin's wife", "gender": "female" },
             { "id": 189, "mid": 190, "fid": 186, "name": "Tin's baby", "gender": "female" },
             { "id": 86, "pids": [90], "mid": 20, "fid": 14, "name": "Tho Nguyen", "gender": "female" },
