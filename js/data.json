@@ -157,7 +157,7 @@
             { "id": 131, "pids": [127], "name": "Suong's husband", "title": "incomplete", "gender": "male" },
             { "id": 134, "mid": 127, "fid": 131, "name": "Suong's baby", "title": "incomplete", "gender": "female" },
             { "id": 128, "mid": 126, "fid": 132, "name": "Thanh", "title": "incomplete", "gender": "female" },
-            { "id": 129, "mid": 126, "fid": 132, "name": "Dinh", "gender": "title": "incomplete", "male" },
+            { "id": 129, "mid": 126, "fid": 132, "name": "Dinh", "title": "incomplete", "gender": "male" },
             { "id": 130, "mid": 126, "fid": 132, "name": "Dinh's Brother", "title": "incomplete", "gender": "male" },
             { "id": 133, "mid": 126, "fid": 132, "name": "Thuy", "title": "incomplete", "gender": "female" },
             { "id": 125, "mid": 104, "fid": 105, "name": "Cau 12", "title": "incomplete", "gender": "male" },
