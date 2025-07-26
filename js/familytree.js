@@ -21,7 +21,8 @@ fetch('js/data.json')
           png: { text: "Export PNG" },
           svg: { text: "Export SVG" }
       },
-      nodes: data
+      nodes: data,
+      rootId: 18
     });
   })
   .catch(error => {
