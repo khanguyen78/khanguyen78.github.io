@@ -4,7 +4,7 @@ fetch('js/data.json')
     new FamilyTree(document.getElementById("tree"), {
     showXScroll: true,
     showYScroll: true,
-    mouseScrool: FamilyTree.action.none,
+    mouseScrool: FamilyTree.action.scroll,
     template: "hugo",
       nodeBinding: {
         field_0: "name",
