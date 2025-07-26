@@ -2,6 +2,9 @@ fetch('js/data.json')
   .then(response => response.json())
   .then(data => {
     new FamilyTree(document.getElementById("tree"), {
+    showXScroll: true,
+    showYScroll: true,
+    mouseScrool: FamilyTree.action.none,
     template: "hugo",
       nodeBinding: {
         field_0: "name",
@@ -11,9 +14,7 @@ fetch('js/data.json')
           pdf: { text: "Export PDF" },
           png: { text: "Export PNG" },
           svg: { text: "Export SVG" },
-          json: { text: "Export JSON" },
-          Lightmode: { mode: "light" },
-          Darkmode: { mode: "dark" },
+          json: { text: "Export JSON" }
       },
       nodeMenu: {
           pdf: { text: "Export PDF" },
