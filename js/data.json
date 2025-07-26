@@ -166,7 +166,7 @@
             { "id": 179, "pids": [196], "mid": 177, "fid": 123, "name": "Tran Xuan Quang's 1st son", "title": "incomplete","gender": "male" },
             { "id": 196, "pids": [179], "name": "Tran Xuan Quang's 1st son's wife", "title": "incomplete","gender": "female" },
             { "id": 198, "mid": 196, "fid": 179, "name": "Tran Xuan Quang's 3rd grandchild", "title": "incomplete","gender": "male" },
-            { "id": 180, "pids": 197, "mid": 177, "fid": 123, "name": "Tran Xuan Quang's 2nd son", "title": "incomplete","gender": "male" },
+            { "id": 180, "pids": [197], "mid": 177, "fid": 123, "name": "Tran Xuan Quang's 2nd son", "title": "incomplete","gender": "male" },
             { "id": 197, "pids": [180], "name": "Tran Xuan Quang's 2nd son's wife", "title": "incomplete","gender": "female" },
             { "id": 199, "mid": 197, "fid": 180, "name": "Tran Xuan Quang's 4th grandchild", "title": "incomplete","gender": "male" },
             { "id": 178, "pids": [123], "name": "Tran Xuan Quang's 2nd wife", "title": "incomplete", "gender": "female" },
