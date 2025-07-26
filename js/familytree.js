@@ -10,6 +10,7 @@ fetch('js/data.json')
         field_0: "name",
         field_1: "title"
       },
+      rootId: 18,
       menu: {
           pdf: { text: "Export PDF" },
           png: { text: "Export PNG" },
@@ -21,8 +22,7 @@ fetch('js/data.json')
           png: { text: "Export PNG" },
           svg: { text: "Export SVG" }
       },
-      nodes: data,
-      rootId: 18
+      nodes: data
     });
   })
   .catch(error => {
