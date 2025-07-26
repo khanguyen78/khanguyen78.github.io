@@ -11,7 +11,9 @@ fetch('js/data.json')
           pdf: { text: "Export PDF" },
           png: { text: "Export PNG" },
           svg: { text: "Export SVG" },
-          json: { text: "Export JSON" }
+          json: { text: "Export JSON" },
+          Lightmode: { mode: "light" },
+          Darkmode: { mode: "dark" },
       },
       nodeMenu: {
           pdf: { text: "Export PDF" },
