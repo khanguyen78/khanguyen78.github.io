@@ -2,6 +2,7 @@ fetch('js/data.json')
   .then(response => response.json())
   .then(data => {
     new FamilyTree(document.getElementById("tree"), {
+    template: "hugo",
       nodeBinding: {
         field_0: "name",
         field_1: "title"
