@@ -141,7 +141,7 @@
             { "id": 116, "mid": 112, "fid": 106, "name": "Thu Hua", "gender": "female" },
             { "id": 115, "mid": 112, "fid": 106, "name": "Huong Hua", "gender": "female" },
             { "id": 203, "mid": 112, "fid": 106, "name": "Huyen Hua", "gender": "female" },
-            { "id": 113, "pids": [200], "mid": 112, "fid": 106, "name": "Lan Hua", "title": "gender": "female" },
+            { "id": 113, "pids": [200], "mid": 112, "fid": 106, "name": "Lan Hua", "gender": "female" },
             { "id": 204, "mid": 112, "fid": 106, "name": "Dao Hua", "gender": "female" },
             { "id": 205, "mid": 112, "fid": 106, "name": "Hoa Hua", "gender": "female" },
             { "id": 206, "mid": 112, "fid": 106, "name": "Ha Hua", "gender": "female" },
